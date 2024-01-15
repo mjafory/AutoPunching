@@ -10,6 +10,8 @@ The motivation is to make technology accessible to everyone, offering a simple s
 
 The provided Python script, named "AutoType," is designed to automate the typing of text from a specified file into an input field. The script utilizes the `pyautogui` library to simulate keyboard actions, allowing it to type each line from the specified file and press the Enter key after each entry.
 
+![Demo](demo.gif)
+
 ### Key Components
 
 1. **File Reading:** The script reads lines from a specified file (in this case, "note.txt").
